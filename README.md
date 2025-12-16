@@ -22,8 +22,8 @@
 
 **Other Projects:**
 - 🎮 [AltCraft.pl](https://altcraft.pl) - Minecraft Server
-- ⚡ [MikolajPlugin](link) - Complex MC Plugin (11 GUIs, 6 systems)
-- 🤖 Telegram Bots, Discord Integration [SupremeChat](https://github.com/tremeq/SupremeChat-Fork)
+- ⚡ [ChristmasPlugin](https://github.com/tremeq/ChristmasPlugin) - Complex MC Plugin (11 GUIs, 6 systems)
+- 🤖 Telegram Bots [Anthropic Bot](https://github.com/tremeq/RailwayAPP-Telegram), Discord Integration [SupremeChat](https://github.com/tremeq/SupremeChat-Fork)
 
 ---
 
@@ -69,7 +69,7 @@ Currently accepting freelance projects:
 - 🎮 Minecraft plugins & server configuration
 - 🔧 Website maintenance & updates
 
-**Contact:** contact@altcraft.pl | [GitHub](https://github.com/tremeq)
+**Contact:** kontakt@altcraft.pl | [GitHub](https://github.com/tremeq)
 
 ---
 
